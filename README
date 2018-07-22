@@ -1,7 +1,9 @@
 gzip with "-p" / "--progress" flag, which makes it display progress.
 
-Made because I somewhere read that pv and gzip dont work well together.
+Made because I somewhere read that pv and gzip don't work well together.
 Turns out that that was bullshit, but I made this already.
+Well, at least it displays progress a little more often. Lacks 
+ETA and speed though.
 
 Rest of this file is the original README.
 
